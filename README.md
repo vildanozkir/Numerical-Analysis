@@ -18,7 +18,7 @@ Tuesday 14:00\-15:00                        | Tuesday 13:00\-14:00
 
 **Prerequisite**
 
-MAT1072 -
+MAT1072 - Mathematics 1
 
 **Course Objective**
 
@@ -30,48 +30,47 @@ Various problems in industrial engineering and solution techniques are discussed
 
 **Required Reading**
 
-    * __Textbook:__ Richard L. Burden and J. Douglas Faires, Numerical Analysis, 8th Edition. Student Edition: ISBN-10: 0-534-39200-8
-    * __Textbook:__ Numerical Methods for Engineers, 5th Edition, Steven C. Chapra, Raymond P. Canale
+- **Textbook:** Richard L. Burden and J. Douglas Faires, Numerical Analysis, 8th Edition. Student Edition: ISBN-10: 0-534-39200-8
+- **Textbook:** Numerical Methods for Engineers, 5th Edition, Steven C. Chapra, Raymond P. Canale
 
 **Expectations**
 
-    * %70 Attendance is required.
-    * At the end of specified lectures (Week 4, Week 7 and Week 13) quiz assignments will be given. There will be no make-up for quizzes. The lowest grade will be dropped. The remaining two grades will be averaged and accounted for second midterm grade.
-    * It is recommended that you do not miss any examination. A make-up will only be offered to those with a medical report. The make-up exam will be scheduled by deparment (generally in the last week of the semester) and will cover the entire course material.
+- %70 Attendance is required.
+- At the end of specified lectures (Week 4, Week 7 and Week 13) quiz assignments will be given. There will be no make-up for quizzes. The lowest grade will be dropped. The remaining two grades will be averaged and accounted for second midterm grade.
+- It is recommended that you do not miss any examination. A make-up will only be offered to those with a medical report. The make-up exam will be scheduled by deparment (generally in the last week of the semester) and will cover the entire course material.
 
 
 **Grading**
 
-    * Midterm:
-    * Quiz Assignments:
-    * Final:
+- Midterm:
+- Quiz Assignments:
+- Final:
 
-**Week subjects**
+|**Week subjects** | Lecture Note
+------|-----|-----
+1. | |
+2. | Solution of equations with one variable | END2962 - Lecture 3
+3. | |
+4. | |
 
-    1
 
-    2
 
-    3
 
-    4
+# How to download python and access workbooks (windows)
 
-    5
+ 1. Go to [Anaconda Website](www.anaconda.com)
+ 2. Click the **Download** menu.
+ 3. Download the **Python 3.7** distribution.
 
-    6
+ ![Anaconda](/codes/images/readme/anaconda.png)
 
-    7
+ 4. Setup Anaconda.
+ 5. Download this repository to your local hard drive. (Click **Clone or Download**)
 
-    8
+ ![DownloadRepository](/codes/images/readme/clone.png)
 
-    9
+ 6. Find **Jupyter** in your start menu, and open the programme. It will start a new explorer window in your default internet explorer.
+ 7. Navigate to the directory which you have downloaded this repository.
+ 8. Click the jupyter notebook that you want to study in directory **/codes**.
 
-    10
-
-    11
-
-    12
-
-    13
-
-    14
+ > When you want to close the notebook: **File > Close and Halt**
