@@ -46,9 +46,9 @@ Various problems in industrial engineering and solution techniques are discussed
 - Quiz Assignments:
 - Final:
 
-|**Week subjects** | Lecture Note
-------|-----|-----
-1. | |
+-|**Week subjects** | **Lecture Note**
+-|------------------|------------------
+1. |                |
 2. | Solution of equations with one variable | END2962 - Lecture 3
 3. | |
 4. | |
@@ -62,7 +62,7 @@ Various problems in industrial engineering and solution techniques are discussed
  2. Click the **Download** menu.
  3. Download the **Python 3.7** distribution.
 
- ![Anaconda](/codes/images/readme/anaconda.png)
+ ![Anaconda](Numerical-Analysis/codes/images/readme/anaconda.png)
 
  4. Setup Anaconda.
  5. Download this repository to your local hard drive. (Click **Clone or Download**)
