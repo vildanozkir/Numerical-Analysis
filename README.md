@@ -46,7 +46,7 @@ Various problems in industrial engineering and solution techniques are discussed
 - Quiz Assignments:
 - Final:
 
-|**Week subjects** | Lecture Note
+|**Week subjects** | **Lecture Note**
 ------|-----|-----
 1. | |
 2. | Solution of equations with one variable | END2962 - Lecture 3
