@@ -62,7 +62,7 @@ Various problems in industrial engineering and solution techniques are discussed
  2. Click the **Download** menu.
  3. Download the **Python 3.7** distribution.
 
- ![Anaconda](Numerical-Analysis/codes/images/readme/anaconda.png)
+ ![Anaconda](https://github.com/shaica/Numerical-Analysis/blob/master/codes/images/readme/anaconda.PNG)
 
  4. Setup Anaconda.
  5. Download this repository to your local hard drive. (Click **Clone or Download**)
