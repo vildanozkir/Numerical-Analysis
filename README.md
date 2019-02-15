@@ -62,12 +62,12 @@ Various problems in industrial engineering and solution techniques are discussed
  2. Click the **Download** menu.
  3. Download the **Python 3.7** distribution.
 
- ![Anaconda](https://github.com/shaica/Numerical-Analysis/blob/master/codes/images/readme/anaconda.PNG)
+ ![Anaconda](/codes/images/readme/anaconda.PNG)
 
  4. Setup Anaconda.
  5. Download this repository to your local hard drive. (Click **Clone or Download**)
 
- ![DownloadRepository](https://github.com/shaica/Numerical-Analysis/blob/master/codes/images/readme/clone.PNG)
+ ![DownloadRepository](/codes/images/readme/clone.PNG)
 
  6. Find **Jupyter** in your start menu, and open the programme. It will start a new explorer window in your default internet explorer.
  7. Navigate to the directory which you have downloaded this repository.
