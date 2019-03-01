@@ -19,39 +19,61 @@ Tuesday 14:00\-15:00                        | Tuesday 13:00\-14:00
 **Prerequisite**
 
 MAT1072 - Mathematics 1
+>Please review your MAT1320 lecture notes.
 
 **Course Objective**
 
-Contributing the ability of doing mathematical operations and executing algorithms required in industrial engineering.
+The primary goal is to provide industrial engineering majors with a basic knowledge of numerical methods including: root-finding, elementary numerical linear algebra, solving systems of linear equations, curve fitting, and numerical solution to ordinary differential equations. The numerical techniques enable students to understand the elementary mathematical models of technology and systems.
+
 
 **Course Content**
 
-Various problems in industrial engineering and solution techniques are discussed. The content is prepared to increase mathematical level of students to apply the solution techniques How to solve problems with unknown analytical function or equation by using discrete mathematics Algorithm concept, recursive algorithms.
+The emphasis of the course will be the thorough study of numerical algorithms to understand
+
+1. The guaranteed accuracy that various methods provide,
+2. The efficiency and scalability for large scale systems and
+3. Issues of stability.
+
+Topics include the standard algorithms for numerical computation: root finding for nonlinear equations, interpolation and approximation of functions. Numerical differentiation and divided differences, Numerical quadrature and integration, numerical solutions of ordinary differential equations and boundary value problems.
 
 **Required Reading**
-
-- **Textbook:** Richard L. Burden and J. Douglas Faires, Numerical Analysis, 8th Edition. Student Edition: ISBN-10: 0-534-39200-8
-- **Textbook:** Numerical Methods for Engineers, 5th Edition, Steven C. Chapra, Raymond P. Canale
+- **Textbook:** Steven C. Chapra and Raymond P. Canale, Numerical Methods for Engineers, 6th Edition.
+- **Textbook:** Richard L. Burden and J. Douglas Faires, Numerical Analysis, 9th Edition.
+- Norman Matloff, A Quick, Painless Tutorial on the Python Language, 2006.
+- Jaan Kiusalaas, Numerical Methods in Engineering with Python.
 
 **Expectations**
 
-- %70 Attendance is required.
-- At the end of specified lectures (Week 4, Week 7 and Week 13) quiz assignments will be given. There will be no make-up for quizzes. The lowest grade will be dropped. The remaining two grades will be averaged and accounted for second midterm grade.
-- It is recommended that you do not miss any examination. A make-up will only be offered to those with a medical report. The make-up exam will be scheduled by deparment (generally in the last week of the semester) and will cover the entire course material.
+- %70 Attendance is required. When you attend class, please pay attention and turn off your mobile phones.
+- Being familiar with MS Excel and Python.
+- At the end of each lesson, mini homework assignments (study questions) will be given.
+- At the end of specified lectures (Week 4, Week 7 and Week 12), quiz assignments will be given. There will be no make-up for quizzes. The maximum grade of two quizzes will be taken.
+- It is recommended that you do not miss any examination. A make-up will only be offered to those with a medical report. The make-up will be given on the last week of the semester and will cover the entire course material.
 
 
 **Grading**
 
-- Midterm:
-- Quiz Assignments:
-- Final:
+- Midterm: 35\%
+- Quiz Assignments: 25\%
+- Final: 40\%
 
--|**Week subjects** | **Lecture Note**
+-|**Week subjects** | **Jupyter Notebook**
 -|------------------|------------------
-1. |                |
-2. | Solution of equations with one variable | END2962 - Lecture 3
-3. | |
-4. | |
+1. | Course Information and Syllabus Review| -
+2. | Mathematical Modeling and Error Analysis| -
+3. | Roots of Equations - Bracketing Methods | END2962 - Lecture 3
+4. | Roots of Equations - Open Methods **(Quiz 1)**| END2962 - Lecture 4
+5. | Roots of Polynomials | -
+6. | Direct Methods for Linear Systems | -
+7. | Iterative Techniques in Matrix Algebra **(Quiz 2)** | -
+8. | Iterative methods for Nonlinear/Linear Systems of Equations | -
+9. | Midterm | -
+10.| Interpolation and Polynomial Approximation | -
+11.| Polynomial Approximation and Curve Fitting | -
+12.| Regression **(Quiz 3)**| -
+13.| Least Squares Regression | -
+14.| Unconstrained Optimization | -
+15.| Final | -
 
 
 
