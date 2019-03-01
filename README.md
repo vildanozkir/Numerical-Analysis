@@ -18,7 +18,7 @@ Tuesday 14:00\-15:00                        | Tuesday 13:00\-14:00
 
 **Prerequisite**
 
-MAT1072 - Mathematics 1
+MAT1320 - Mathematics 1
 >Please review your MAT1320 lecture notes.
 
 **Course Objective**
