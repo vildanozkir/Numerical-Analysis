@@ -56,24 +56,26 @@ Topics include the standard algorithms for numerical computation: root finding f
 - Midterm: 35\%
 - Quiz Assignments: 25\%
 - Final: 40\%
+
+
  
--  |                      **Week subjects**                      | **Jupyter Notebook**
--  |-------------------------------------------------------------|------------------
-1. | Course Information and Syllabus Review                      | -
-2. | Mathematical Modeling and Error Analysis                    | -
-3. | Roots of Equations - Bracketing Methods                     | END2962 - Lecture 3
-4. | Roots of Equations - Open Methods **(Quiz 1)**              | END2962 - Lecture 4
-5. | Roots of Polynomials                                        | -
-6. | Direct Methods for Linear Systems                           | -
-7. | Iterative Techniques in Matrix Algebra **(Quiz 2)**         | -
-8. | Iterative methods for Nonlinear/Linear Systems of Equations | -
-9. | Midterm                                                     | -
-10.| Interpolation and Polynomial Approximation                  | -
-11.| Polynomial Approximation and Curve Fitting                  | -
-12.| Regression **(Quiz 3)**                                     | -
-13.| Least Squares Regression                                    | -
-14.| Unconstrained Optimization                                  | -
-15.| Final                                                       | -
+**Week**|                      **Week subjects**                      | **Jupyter Notebook**
+--------|-------------------------------------------------------------|------------------
+Week 1  | Course Information and Syllabus Review                      | 
+Week 2  | Mathematical Modeling and Error Analysis                    | 
+Week 3  | Roots of Equations - Bracketing Methods                     | END2962 - Lecture 3
+Week 4  | Roots of Equations - Open Methods **(Quiz 1)**              | END2962 - Lecture 4
+Week 5  | Roots of Polynomials                                        | 
+Week 6  | Direct Methods for Linear Systems                           | 
+Week 7  | Iterative Techniques in Matrix Algebra **(Quiz 2)**         | 
+Week 8  | Iterative methods for Nonlinear/Linear Systems of Equations | 
+Week 9  | Midterm                                                     | 
+Week 10 | Interpolation and Polynomial Approximation                  | 
+Week 11 | Polynomial Approximation and Curve Fitting                  | 
+Week 12 | Regression **(Quiz 3)**                                     | 
+Week 13 | Least Squares Regression                                    | 
+Week 14 | Unconstrained Optimization                                  | 
+Week 15 | Final                                                       | 
 
 
 
