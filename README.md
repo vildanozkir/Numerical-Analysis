@@ -7,13 +7,13 @@ Course Information Sheet
 
 **Lecturer Information**                    | **Assistant Information**
 --------------------------------------------|--------------------------------
-Vildan Ç. ÖZKIR                             | Şahika KOYUN YILMAZ
-Yildiz Campus - A627                        | Yildiz Campus - V101
-cvildan@yildiz.edu.tr                       | skoyun@yildiz.edu.tr
-[Avesis](www.avesis.yildiz.edu.tr/cvildan)  | [Avesis](www.avesis.yildiz.edu.tr/skoyun)
-0212 - 383 2903                             | 0212 383 3037
+Vildan Ç. ÖZKIR                             | 
+Yildiz Campus - A627                        | 
+cvildan@yildiz.edu.tr                       | 
+[Avesis](www.avesis.yildiz.edu.tr/cvildan)  | []()
+0212 - 383 2903                             | 
 **Office Hours**                            | **Office Hours**
-Tuesday 14:00\-15:00                        | Tuesday 13:00\-14:00
+Tuesday 14:00\-15:00                        | 
 
 
 **Prerequisite**
